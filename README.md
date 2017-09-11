@@ -1,5 +1,10 @@
 # CSC201
 
+Class Information:
+CSC201-004N; Computer Science 1.
+Prof. Tanes Kanchanawanchai
+Fall 2017
+
 Programs are property of Emma Slayton. Code is published only for academic and peer collaboration purposes. Programs developed by me may not be used in any way without my permission.
 
 ### All projects I made for CSC201:
@@ -22,6 +27,8 @@ Programs are property of Emma Slayton. Code is published only for academic and p
 * Project 17: Coming soon...
 * Project 18: Coming soon...
 * Project 19: Coming soon...
+
+All projects, (excluding Project 1), are solving problems found in *Introduction to Java Programming*, 10E, by [Y. Daniel Liang.](http://www.cs.armstrong.edu/liang/index.html)
 
 
 
