@@ -1,6 +1,6 @@
 # CSC201
 
-Programs are property of Emma Slayton. Code is published only for academic and peer collaboration purposes. Programs developed by me may not be used without my permission in any way.
+Programs are property of Emma Slayton. Code is published only for academic and peer collaboration purposes. Programs developed by me may not be used in any way without my permission.
 
 ### All projects I made for CSC201:
 * Project 1: ["CalcProblemNumber"](https://github.com/emmaslayton/CalcProblemNumber)
