@@ -11,7 +11,7 @@ Programs are property of Emma Slayton. Code is published only for academic and p
 * Project 1: ["CalcProblemNumber"](https://github.com/emmaslayton/CalcProblemNumber)
 * Project 2: ["CalcFutureInvest"](https://github.com/emmaslayton/CalcFutureInvest)
 * Project 3: ["ScissorRockPaper"](https://github.com/emmaslayton/ScissorRockPaper)
-* Project 4: Coming soon...
+* Project 4: [PayrollCalculator](https://github.com/emmaslayton/PayrollCalulator)
 * Project 5: ["TwoHighestScores"](https://github.com/emmaslayton/TwoHighestScores)
 * Project 6: ["DisplayNumberOfDaysInAYear"](https://github.com/emmaslayton/DisplayNumberOfDaysInAYear)
 * Project 7: Coming soon...
