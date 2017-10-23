@@ -14,9 +14,9 @@ Programs are property of Emma Slayton. Code is published only for academic and p
 * Project 4: ["PayrollCalculator"](https://github.com/emmaslayton/PayrollCalulator)
 * Project 5: ["TwoHighestScores"](https://github.com/emmaslayton/TwoHighestScores)
 * Project 6: ["DisplayNumberOfDaysInAYear"](https://github.com/emmaslayton/DisplayNumberOfDaysInAYear)
-* Project 7: ["ReverseArrayContents"]("https://github.com/emmaslayton/ReverseArrayContents")
-* Project 8: ["MatrixMultiplierTester"]("https://github.com/emmaslayton/MatrixMultiplierTester")
-* Project 9: ["Rectangle"]("https://github.com/emmaslayton/Rectangle")
+* Project 7: ["ReverseArrayContents"](https://github.com/emmaslayton/ReverseArrayContents)
+* Project 8: ["MatrixMultiplierTester"](https://github.com/emmaslayton/MatrixMultiplierTester)
+* Project 9: ["Rectangle"](https://github.com/emmaslayton/Rectangle)
 * Project 10: Coming soon...
 * Project 11: Coming soon...
 * Project 12: Coming soon...
